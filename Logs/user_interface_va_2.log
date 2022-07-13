@@ -1,0 +1,661 @@
+﻿Log file open, 07/13/22 13:42:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=18088)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: user_interface_va
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "F:\UE Projects\user_interface_va\user_interface_va.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.778] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="dec117284f8ecd6eb1ae86a35a7673f6"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 2.367378
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-EF43B7BE4315D329E792B19168E34009
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.07 seconds
+LogConfig: Display: Loading IOS ini files took 0.08 seconds
+LogConfig: Display: Loading Mac ini files took 0.08 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.08 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.09 seconds
+LogConfig: Display: Loading Linux ini files took 0.09 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.05 seconds
+LogConfig: Display: Loading Windows ini files took 0.06 seconds
+LogConfig: Display: Loading TVOS ini files took 0.14 seconds
+LogConfig: Display: Loading Unix ini files took 0.15 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin OpenXR
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OculusVR
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenXR/Content/' mounted to '/OpenXR/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Oculus/OculusVR/Content/' mounted to '/OculusVR/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed loading OVRPlugin 1.65.0
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.778] (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: F:/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.07.13-08.12.02:738][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.07.13-08.12.02:739][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:None]] deferred - dummy variable created
+[2022.07.13-08.12.02:739][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:None]] deferred - dummy variable created
+[2022.07.13-08.12.02:739][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.07.13-08.12.02:739][  0]LogConfig: CVar [[r.Mobile.AllowSoftwareOcclusion:0]] deferred - dummy variable created
+[2022.07.13-08.12.02:739][  0]LogConfig: CVar [[r.VT.EnableCompressZlib:1]] deferred - dummy variable created
+[2022.07.13-08.12.02:739][  0]LogConfig: CVar [[r.VT.EnableCompressCrunch:0]] deferred - dummy variable created
+[2022.07.13-08.12.02:739][  0]LogConfig: CVar [[r.DistanceFieldBuild.EightBit:0]] deferred - dummy variable created
+[2022.07.13-08.12.02:739][  0]LogConfig: CVar [[r.GenerateLandscapeGIData:0]] deferred - dummy variable created
+[2022.07.13-08.12.02:739][  0]LogConfig: CVar [[r.DistanceFieldBuild.Compress:0]] deferred - dummy variable created
+[2022.07.13-08.12.02:739][  0]LogConfig: CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]] deferred - dummy variable created
+[2022.07.13-08.12.02:739][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2022.07.13-08.12.02:739][  0]LogConfig: CVar [[r.EyeAdaptation.EditorOnly:0]] deferred - dummy variable created
+[2022.07.13-08.12.02:739][  0]LogConfig: CVar [[r.SSGI.Enable:0]] deferred - dummy variable created
+[2022.07.13-08.12.02:740][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2022.07.13-08.12.02:741][  0]LogConfig: CVar [[r.SupportAtmosphericFog:1]] deferred - dummy variable created
+[2022.07.13-08.12.02:741][  0]LogConfig: CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]] deferred - dummy variable created
+[2022.07.13-08.12.02:741][  0]LogConfig: CVar [[r.LightPropagationVolume:0]] deferred - dummy variable created
+[2022.07.13-08.12.02:741][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.07.13-08.12.02:741][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.07.13-08.12.02:741][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2022.07.13-08.12.02:741][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.07.13-08.12.02:741][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.07.13-08.12.02:741][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.07.13-08.12.02:741][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.07.13-08.12.02:741][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.07.13-08.12.02:741][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.07.13-08.12.02:741][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.07.13-08.12.02:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.07.13-08.12.02:742][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.07.13-08.12.02:757][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.07.13-08.12.02:757][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.07.13-08.12.02:757][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.07.13-08.12.02:757][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.07.13-08.12.02:758][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.07.13-08.12.02:758][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.07.13-08.12.02:758][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.07.13-08.12.02:758][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.07.13-08.12.02:758][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.07.13-08.12.02:758][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.07.13-08.12.02:758][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.07.13-08.12.02:800][  0]LogD3D12RHI: Aftermath initialized
+[2022.07.13-08.12.02:801][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.07.13-08.12.03:245][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2022.07.13-08.12.03:245][  0]LogHMD: Optional extension XR_KHR_binding_modification is not available
+[2022.07.13-08.12.03:245][  0]LogHMD: Optional extension XR_EXT_dpad_binding is not available
+[2022.07.13-08.12.03:248][  0]LogHMD: Initialized OpenXR on Oculus runtime version 1.73.0
+[2022.07.13-08.12.03:248][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2022.07.13-08.12.03:904][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1650 Ti (Max supported Feature Level 12_1, shader model 6.6)
+[2022.07.13-08.12.03:904][  0]LogD3D12RHI: Adapter has 3962MB of dedicated video memory, 0MB of dedicated system memory, and 3981MB of shared system memory, 1 output[s]
+[2022.07.13-08.12.04:052][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.5)
+[2022.07.13-08.12.04:052][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 3981MB of shared system memory, 0 output[s]
+[2022.07.13-08.12.04:101][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.07.13-08.12.04:101][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 3981MB of shared system memory, 0 output[s]
+[2022.07.13-08.12.04:103][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.07.13-08.12.04:104][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.13-08.12.04:104][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.07.13-08.12.04:105][  0]LogHAL: Display: Platform has ~ 8 GB [8350199808 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.07.13-08.12.04:106][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.07.13-08.12.04:106][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.07.13-08.12.04:106][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.07.13-08.12.04:108][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.07.13-08.12.04:108][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/UE Projects/user_interface_va/Saved/Config/WindowsEditor/Editor.ini]
+[2022.07.13-08.12.04:109][  0]LogInit: Computer: LAPTOP-OCE1L0V8
+[2022.07.13-08.12.04:109][  0]LogInit: User: AJAYKUMAR
+[2022.07.13-08.12.04:109][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.07.13-08.12.04:109][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.07.13-08.12.04:110][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2022.07.13-08.12.04:110][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.07.13-08.12.04:110][  0]LogMemory: Process Physical Memory: 286.74 MB used, 290.25 MB peak
+[2022.07.13-08.12.04:110][  0]LogMemory: Process Virtual Memory: 243.10 MB used, 243.10 MB peak
+[2022.07.13-08.12.04:110][  0]LogMemory: Physical Memory: 7368.46 MB used,  594.91 MB free, 7963.37 MB total
+[2022.07.13-08.12.04:110][  0]LogMemory: Virtual Memory: 27098.68 MB used,  2999.54 MB free, 30098.23 MB total
+[2022.07.13-08.12.04:110][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.07.13-08.12.04:140][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.07.13-08.12.04:223][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.07.13-08.12.04:230][  0]LogInit: Using OS detected language (en-US).
+[2022.07.13-08.12.04:230][  0]LogInit: Using OS detected locale (en-IN).
+[2022.07.13-08.12.04:253][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.07.13-08.12.05:317][  0]LogInit: Setting process to per monitor DPI aware
+[2022.07.13-08.12.05:367][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.07.13-08.12.05:367][  0]LogWindowsTextInputMethodSystem:   - English (India) - (Keyboard).
+[2022.07.13-08.12.05:367][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.07.13-08.12.05:367][  0]LogWindowsTextInputMethodSystem:   - English (India) - Touch Input Correction (TSF IME).
+[2022.07.13-08.12.05:368][  0]LogWindowsTextInputMethodSystem: Activated input method: English (India) - (Keyboard).
+[2022.07.13-08.12.05:451][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.07.13-08.12.05:451][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.07.13-08.12.06:200][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.07.13-08.12.06:228][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.07.13-08.12.06:229][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.07.13-08.12.06:509][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.07.13-08.12.06:509][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.07.13-08.12.06:509][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.07.13-08.12.06:509][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.07.13-08.12.06:509][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.07.13-08.12.06:509][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.07.13-08.12.06:509][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.07.13-08.12.06:509][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.07.13-08.12.06:509][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.07.13-08.12.06:509][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.07.13-08.12.06:509][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.07.13-08.12.06:509][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.07.13-08.12.06:509][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.07.13-08.12.06:509][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.07.13-08.12.06:687][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.07.13-08.12.06:723][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.07.13-08.12.06:796][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.07.13-08.12.06:867][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.07.13-08.12.06:867][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.07.13-08.12.06:976][  0]LogD3D12RHI:     GPU DeviceId: 0x1f95 (for the marketing name, search the web for "GPU Device Id")
+[2022.07.13-08.12.06:976][  0]LogWindows: Attached monitors:
+[2022.07.13-08.12.06:976][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1020), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.07.13-08.12.06:976][  0]LogWindows: Found 1 attached monitors.
+[2022.07.13-08.12.06:976][  0]LogWindows: EnumDisplayDevices:
+[2022.07.13-08.12.06:978][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.07.13-08.12.06:978][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.07.13-08.12.06:978][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.07.13-08.12.06:980][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.07.13-08.12.06:981][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1650 Ti' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.07.13-08.12.06:983][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1650 Ti' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.07.13-08.12.06:984][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1650 Ti' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.07.13-08.12.06:985][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.07.13-08.12.06:985][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1650 Ti
+[2022.07.13-08.12.06:985][  0]LogD3D12RHI:   Driver Version: 512.78 (internal:30.0.15.1278, unified:512.78)
+[2022.07.13-08.12.06:985][  0]LogD3D12RHI:      Driver Date: 5-5-2022
+[2022.07.13-08.12.06:986][  0]LogRHI: Texture pool is 2121 MB (70% of 3030 MB)
+[2022.07.13-08.12.06:986][  0]LogD3D12RHI: Async texture creation enabled
+[2022.07.13-08.12.06:986][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.07.13-08.12.07:086][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.07.13-08.12.33:578][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues in D3D12.
+Please install either the latest or the recommended driver version or switch to a different rendering API.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce GTX 1650 Ti
+Installed: 512.78
+Recommended: 516.25
+[2022.07.13-08.12.33:652][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="F:/UE Projects/user_interface_va/user_interface_va.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/UE Projects/user_interface_va/Intermediate/TurnkeyReport_0.log" -log="F:/UE Projects/user_interface_va/Intermediate/TurnkeyLog_0.log" -project="F:/UE Projects/user_interface_va/user_interface_va.uproject"  -platform=all'
+[2022.07.13-08.12.33:655][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""F:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="F:/UE Projects/user_interface_va/user_interface_va.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/UE Projects/user_interface_va/Intermediate/TurnkeyReport_0.log" -log="F:/UE Projects/user_interface_va/Intermediate/TurnkeyLog_0.log" -project="F:/UE Projects/user_interface_va/user_interface_va.uproject"  -platform=all" ]
+[2022.07.13-08.12.33:813][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.07.13-08.12.33:864][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.07.13-08.12.33:865][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.07.13-08.12.33:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.07.13-08.12.33:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.07.13-08.12.33:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.07.13-08.12.33:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.07.13-08.12.33:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.07.13-08.12.33:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.07.13-08.12.33:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.07.13-08.12.33:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.07.13-08.12.33:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.07.13-08.12.33:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.07.13-08.12.34:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.07.13-08.12.34:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.07.13-08.12.34:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.07.13-08.12.34:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.07.13-08.12.34:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.07.13-08.12.34:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.07.13-08.12.34:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.07.13-08.12.34:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.07.13-08.12.34:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.07.13-08.12.34:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.07.13-08.12.34:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.07.13-08.12.34:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.07.13-08.12.34:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.07.13-08.12.34:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.07.13-08.12.34:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.07.13-08.12.34:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.07.13-08.12.34:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.07.13-08.12.34:305][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.07.13-08.12.34:378][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.07.13-08.12.34:390][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.07.13-08.12.34:391][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.07.13-08.12.34:391][  0]LogTargetPlatformManager:   ADPCM
+[2022.07.13-08.12.34:391][  0]LogTargetPlatformManager:   PCM
+[2022.07.13-08.12.34:401][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.07.13-08.12.34:401][  0]LogTargetPlatformManager:   BINKA
+[2022.07.13-08.12.34:401][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.07.13-08.12.34:401][  0]LogTargetPlatformManager:   OGG
+[2022.07.13-08.12.34:401][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.07.13-08.12.34:401][  0]LogTargetPlatformManager:   OPUS
+[2022.07.13-08.12.34:782][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.07.13-08.12.34:812][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.07.13-08.12.34:812][  0]LogTargetPlatformManager:   SF_METAL
+[2022.07.13-08.12.34:812][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.07.13-08.12.34:812][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.07.13-08.12.34:812][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.07.13-08.12.34:812][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.07.13-08.12.34:812][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.07.13-08.12.34:812][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.07.13-08.12.34:812][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.07.13-08.12.34:812][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.07.13-08.12.34:812][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.07.13-08.12.34:812][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.07.13-08.12.34:812][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.07.13-08.12.34:812][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.07.13-08.12.34:812][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.07.13-08.12.34:812][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.07.13-08.12.34:839][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.07.13-08.12.34:839][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.07.13-08.12.34:839][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.07.13-08.12.34:839][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.07.13-08.12.34:839][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.07.13-08.12.34:839][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.07.13-08.12.34:839][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.07.13-08.12.34:844][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.07.13-08.12.34:874][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../UE Projects/user_interface_va/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.07.13-08.12.34:878][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.07.13-08.12.34:884][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../UE Projects/user_interface_va/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.07.13-08.12.34:889][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.07.13-08.12.34:942][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UE Projects/user_interface_va/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.07.13-08.12.34:942][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.07.13-08.12.34:943][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UE Projects/user_interface_va/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.13-08.12.34:943][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.07.13-08.12.35:017][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.07.13-08.12.35:019][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.13-08.12.35:019][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.07.13-08.12.35:087][  0]LogDerivedDataCache: Speed tests for C:/Users/AJAYKUMAR/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.07 seconds
+[2022.07.13-08.12.35:088][  0]LogDerivedDataCache: Display: Performance to C:/Users/AJAYKUMAR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.27ms. RandomReadSpeed=90.14MBs, RandomWriteSpeed=25.71MBs. Assigned SpeedClass 'Local'
+[2022.07.13-08.12.35:099][  0]LogDerivedDataCache: Using Local data cache path C:/Users/AJAYKUMAR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.07.13-08.12.35:099][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.07.13-08.12.35:099][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.07.13-08.12.35:136][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.07.13-08.12.35:136][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.07.13-08.12.35:172][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../UE Projects/user_interface_va/Intermediate/Shaders/WorkingDirectory/14232/).
+[2022.07.13-08.12.35:172][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/AJAYKUMAR/AppData/Local/Temp/UnrealShaderWorkingDir/872231734C989C007F503F998C565B88/'.
+[2022.07.13-08.12.35:174][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.07.13-08.12.35:176][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.07.13-08.12.39:301][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.07.13-08.12.39:302][  0]LogSlate: Using FreeType 2.10.0
+[2022.07.13-08.12.39:318][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.07.13-08.12.39:325][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2022.07.13-08.12.39:611][  0]LogAssetRegistry: FAssetRegistry took 0.0785 seconds to start up
+[2022.07.13-08.12.39:643][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.07.13-08.12.40:912][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.07.13-08.12.40:929][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.07.13-08.12.41:826][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.13-08.12.41:826][  0]LogDeviceProfileManager: Active device profile: [000009556F486740][0000095561E8A000 50] WindowsEditor
+[2022.07.13-08.12.41:827][  0]LogDeviceProfileManager: Profiles: [000009556F486900][0000095561E85000 50] Windows, [000009556F486740][0000095561E8A000 50] WindowsEditor, [000009556F482A00][0000095561E82800 50] WindowsServer, [000009556F486200][0000095561D9C800 50] WindowsClient, [000009556F481F80][00000955569CA000 50] IOS, [000009556F485400][00000955619E5000 50] iPadAir2, [000009556F487540][000009556F772800 50] IPadPro, [000009556F4878C0][000009556F770000 50] iPadAir3, [000009556F487A80][000009556F777800 50] iPadAir4, [000009556F4871C0][000009556F77A000 50] iPadMini4, [000009556F483100][000009556F77C800 50] iPadMini5, [000009556F487380][0000095561E80000 50] iPadMini6, [000009556F48A480][000009556F795000 50] iPhone6S, [000009556F48A800][000009556F792800 50] iPhone7, [000009556F48AB80][000009556F790000 50] iPodTouch7, [000009556F48A100][000009556F79A000 50] iPhone6SPlus, [000009556F48A2C0][000009556F79C800 50] iPhone7Plus, [000009556F483480][000009556F775000 50] iPhoneSE, [000009556F484EC0][000009556F7F0000 50] iPhone8, [000009556F488F80][000009556F7F5000 50] iPhone8Plus, [000009556F4839C0][000009556F7F7800 50] iPhoneX, [000009556F482D80][000009556F7FA000 50] iPhoneXS, [000009556F483640][000009556F7FC800 50] iPhoneXSMax, [000009556F48A9C0][000009556F797800 50] iPhoneXR, [000009556F4840C0][000009556F7A0000 50] iPhone11, [000009556F482140][000009556F7A5000 50] iPhone11Pro, [000009556F4855C0][000009556F7A7800 50] iPhone11ProMax, [000009556F488C00][000009556F7AA000 50] iPhoneSE2, [000009556F489A00][000009556F7AC800 50] iPhone12Mini, [000009556F487000][000009556F7F2800 50] iPhone12, [000009556F484440][000009556F7B0000 50] iPhone12Pro, [000009556F489840][000009556F7B5000 50] iPhone12ProMax, [000009556F489BC0][000009556F7B7800 50] iPhone13Mini, [000009556F485080][000009556F7BA000 50] iPhone13, [000009556F482300][000009556F7BC800 50] iPhone13Pro, [000009556F48A640][000009556F7A2800 50] iPhone13ProMax, [000009556F485780][000009556F7C0000 50] iPadPro105, [000009556F489D80][000009556F7C5000 50] iPadPro129, [000009556F483F00][000009556F7C7800 50] iPadPro97, [000009556F484980][000009556F7CA000 50] iPadPro2_129, [000009556F489300][000009556F7CC800 50] iPad5, [000009556F486580][000009556F7B2800 50] iPad6, [000009556F488340][000009556F7D0000 50] iPad7, [000009556F4863C0][000009556F7D5000 50] iPad8, [000009556F488A40][000009556F7D7800 50] iPad9, [000009556F484B40][000009556F7DA000 50] iPadPro11, [000009556F485E80][000009556F7DC800 50] iPadPro2_11, [000009556F484D00][000009556F7C2800 50] iPadPro3_11, [000009556F488500][000009556F810000 50] iPadPro3_129, [000009556F482F40][000009556F815000 50] iPadPro4_129, [000009556F485CC0][000009556F817800 50] iPadPro5_129, [000009556F4894C0][000009556F81A000 50] AppleTV, [000009556F487700][000009556F81C800 50] AppleTV4K, [000009556F4847C0][000009556F7D2800 50] TVOS, [000009556F48C780][000009556F822800 50] Mac, [000009556F48CB00][000009556F820000 50] MacEditor, [000009556F4832C0][000009556F827800 50] MacClient, [000009556F48C240][000009556F82A000 50] MacServer, [000009556F48CE80][000009556F812800 50] Linux, [000009556F48D200][000009556F82C800 50] LinuxEditor, [000009556F48BEC0][000009556F830000 50] LinuxArm64Editor, [000009556F48D040][000009556F835000 50] LinuxArm64, [000009556F48B600][000009556F837800 50] LinuxClient, [000009556F485B00][000009556F83A000 50] LinuxArm64Client, [000009556F48BD00][000009556F83C800 50] LinuxServer, [000009556F48D900][000009556F825000 50] LinuxArm64Server, [000009556F485940][000009556F840000 50] Android, [000009556F48AD40][000009556F845000 50] Android_Preview_OpenGL, [000009556F483800][000009556F847800 50] Android_Preview_Vulkan, [000009556F483B80][000009556F84A000 50] Android_Low, [000009556F48BB40][000009556F84C800 50] Android_Mid, [000009556F48D740][000009556F832800 50] Android_High, [000009556F48B440][000009556F850000 50] Android_Default, [000009556F48B980][000009556F855000 50] Android_Adreno4xx, [000009556F487C40][000009556F857800 50] Android_Adreno5xx_Low, [000009556F48C080][000009556F85A000 50] Android_Adreno5xx, [000009556F484280][000009556F85C800 50] Android_Adreno6xx, [000009556F48C5C0][000009556F842800 50] Android_Adreno6xx_Vulkan, [000009556F489F40][000009556F860000 50] Android_Adreno7xx, [000009556F489680][000009556F865000 50] Android_Adreno7xx_Vulkan, [000009556F484600][000009556F867800 50] Android_Mali_T6xx, [000009556F48AF00][000009556F86A000 50] Android_Mali_T7xx, [000009556F487E00][000009556F86C800 50] Android_Mali_T8xx, [000009556F48DAC0][000009556F852800 50] Android_Mali_G71, [000009556F486040][000009556F870000 50] Android_Mali_G72, [000009556F48B280][000009556F875000 50] Android_Mali_G72_Vulkan, [000009556F48E700][000009556F877800 50] Android_Mali_G76, [000009556F486C80][000009556F87A000 50] Android_Mali_G76_Vulkan, [000009556F48DE40][000009556F87C800 50] Android_Mali_G77, [000009556F483D40][000009556F862800 50] Android_Mali_G77_Vulkan, [000009556F48E8C0][000009556F880000 50] Android_Mali_G78, [000009556F48B7C0][000009556F885000 50] Android_Mali_G78_Vulkan, [000009556F48EC40][000009556F887800 50] Android_Mali_G710, [000009556F48E540][000009556F88A000 50] Android_Mali_G710_Vulkan, [000009556F48FA40][000009556F88C800 50] Android_Xclipse_920, [000009556F482BC0][000009556F872800 50] Android_Xclipse_920_Vulkan, [000009556F48E380][000009556F890000 50] Android_Vulkan_SM5, [000009556F48EA80][000009556F895000 50] Android_PowerVR_G6xxx, [000009556F48C940][000009556F897800 50] Android_PowerVR_GT7xxx, [000009556F48F6C0][000009556F89A000 50] Android_PowerVR_GE8xxx, [000009556F48B0C0][000009556F89C800 50] Android_PowerVR_GM9xxx, [000009556F4886C0][000009556F882800 50] Android_PowerVR_GM9xxx_Vulkan, [000009556F48D3C0][000009556F8A0000 50] Android_TegraK1, [000009556F48FC00][000009556F8A5000 50] Android_Unknown_Vulkan, [000009556F48F500][000009556F8A7800 50] Oculus_Quest, [000009556F730000][000009556F8AA000 50] Oculus_Quest2, [000009556F732680][000009556F8AC800 50] HoloLens, 
+[2022.07.13-08.12.41:827][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.07.13-08.12.41:862][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.")
+[2022.07.13-08.12.41:863][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.07.13-08.12.42:066][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.07.13-08.12.42:393][  0]LogMaterial: Display: Missing cached shadermap for WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FB873415DF94A9C76310382F7981F3DA7AB98348), compiling. Is special engine material.
+[2022.07.13-08.12.46:982][  0]LogMaterial: Display: Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C0FFC03B078E975399135AFBEEF790C115FB17A1), compiling. 
+[2022.07.13-08.12.47:505][  0]LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FB66B38CAC27C6F6014D2B6C8371CA02EE0BEFD2), compiling. 
+[2022.07.13-08.35.38:831][  0]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks() took too long (1.393 seconds, threshold is 0.300 s), will parallelize next time.
+[2022.07.13-08.35.38:834][  0]LogShaderCompilers: Display: Worker (3/9) finished batch of 10 jobs in 60.328s, TShadowDepthVSVertexShadowDepth_OnePassPointLight [WorkerTime=13.246s], FTranslucentLightingInjectPS [WorkerTime=10.354s], FHWRasterizePS [WorkerTime=6.079s], FHWRasterizePS [WorkerTime=5.763s], FHWRasterizePS [WorkerTime=5.211s], FHWRasterizePS [WorkerTime=5.081s], FTranslucentLightingInjectPS [WorkerTime=4.848s], TLightMapDensityVSFNoLightMapPolicy [WorkerTime=2.511s], FHWRasterizePS [WorkerTime=1.913s], FTranslucentLightingInjectPS [WorkerTime=1.542s]
+[2022.07.13-08.35.38:834][  0]LogShaderCompilers: Display: Worker (9/9) finished batch of 10 jobs in 72.579s, FHWRasterizePS [WorkerTime=14.236s], TBasePassVSTLightMapPolicyHQ [WorkerTime=10.413s], FHWRasterizeVS [WorkerTime=9.784s], FHWRasterizePS [WorkerTime=7.721s], FHWRasterizePS [WorkerTime=7.306s], FHWRasterizePS [WorkerTime=6.441s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=5.547s], FHWRasterizeVS [WorkerTime=3.854s], FHWRasterizeVS [WorkerTime=3.376s], FHWRasterizePS [WorkerTime=1.164s]
+[2022.07.13-08.35.38:834][  0]LogShaderCompilers: Display: Worker (7/9) finished batch of 10 jobs in 73.388s, FHWRasterizePS [WorkerTime=10.565s], FHWRasterizePS [WorkerTime=10.330s], FHWRasterizeVS [WorkerTime=7.021s], FHWRasterizePS [WorkerTime=6.982s], FHWRasterizePS [WorkerTime=6.972s], FHWRasterizePS [WorkerTime=6.205s], TShadowDepthVSVertexShadowDepth_OutputDepth [WorkerTime=5.892s], FHWRasterizePS [WorkerTime=5.848s], FHWRasterizePS [WorkerTime=5.279s], FHWRasterizePS [WorkerTime=5.056s]
+[2022.07.13-08.35.38:835][  0]LogShaderCompilers: Display: Worker (6/9) finished batch of 10 jobs in 89.026s, TBasePassPSFNoLightMapPolicy [WorkerTime=31.840s], FHWRasterizePS [WorkerTime=10.830s], FHWRasterizePS [WorkerTime=9.042s], FHWRasterizePS [WorkerTime=8.304s], FHWRasterizePS [WorkerTime=7.248s], FHWRasterizeVS [WorkerTime=5.395s], FHWRasterizePS [WorkerTime=4.647s], FHWRasterizePS [WorkerTime=4.342s], FHWRasterizePS [WorkerTime=2.655s], FHWRasterizePS [WorkerTime=1.128s]
+[2022.07.13-08.35.38:835][  0]LogShaderCompilers: Display: Worker (1/9) finished batch of 10 jobs in 91.061s, TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=37.547s], FHWRasterizePS [WorkerTime=9.693s], TShadowDepthVSVertexShadowDepth_PerspectiveCorrect [WorkerTime=8.906s], FTranslucentLightingInjectPS [WorkerTime=7.842s], FHWRasterizePS [WorkerTime=7.285s], FHWRasterizeVS [WorkerTime=6.035s], FTranslucentLightingInjectPS [WorkerTime=4.584s], TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect [WorkerTime=2.742s], FTranslucentLightingInjectPS [WorkerTime=2.641s], TShadowDepthPSPixelShadowDepth_PerspectiveCorrect [WorkerTime=0.974s]
+[2022.07.13-08.35.38:835][  0]LogShaderCompilers: Display: Worker (4/9) finished batch of 10 jobs in 101.939s, TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=43.464s], FTranslucentLightingInjectPS [WorkerTime=12.072s], FHWRasterizeVS [WorkerTime=7.592s], FHWRasterizePS [WorkerTime=6.458s], FHWRasterizePS [WorkerTime=6.428s], FHWRasterizePS [WorkerTime=6.121s], FHWRasterizePS [WorkerTime=6.107s], FHitProxyVS [WorkerTime=3.936s], FHWRasterizeVS [WorkerTime=3.873s], TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect [WorkerTime=3.093s]
+[2022.07.13-08.35.38:835][  0]LogDerivedDataCache: C:/Users/AJAYKUMAR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.877 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.13-08.35.38:836][  0]LogShaderCompilers: Display: Worker (3/9) finished batch of 10 jobs in 76.522s, TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=33.165s], FHWRasterizeVS [WorkerTime=7.666s], FTranslucentLightingInjectPS [WorkerTime=6.975s], FHWRasterizeVS [WorkerTime=5.490s], FTranslucentLightingInjectPS [WorkerTime=5.288s], FVolumetricFogLightFunctionPS [WorkerTime=4.462s], FTranslucentLightingInjectPS [WorkerTime=3.913s], FTranslucentLightingInjectPS [WorkerTime=3.637s], FTranslucentLightingInjectPS [WorkerTime=2.887s], FTranslucentLightingInjectPS [WorkerTime=1.998s]
+[2022.07.13-08.35.38:837][  0]LogShaderCompilers: Display: Worker (8/9) finished batch of 10 jobs in 86.026s, TBasePassPSFSelfShadowedTranslucencyPolicy [WorkerTime=30.340s], TBasePassPSFNoLightMapPolicy [WorkerTime=12.194s], FHWRasterizeVS [WorkerTime=9.935s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=9.203s], FVolumetricFogLightFunctionPS [WorkerTime=5.225s], FHitProxyVS [WorkerTime=4.844s], FMeshDecalsVS [WorkerTime=4.707s], FTranslucentLightingInjectPS [WorkerTime=3.964s], FVolumetricFogLightFunctionPS [WorkerTime=3.108s], TLightMapDensityPSFNoLightMapPolicy [WorkerTime=1.683s]
+[2022.07.13-08.35.38:837][  0]LogShaderCompilers: Display: Worker (7/9) finished batch of 10 jobs in 96.850s, TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=32.635s], TBasePassVSFSelfShadowedTranslucencyPolicy [WorkerTime=12.414s], TBasePassVSTLightMapPolicyHQ [WorkerTime=11.937s], TBasePassVSFNoLightMapPolicy [WorkerTime=11.930s], TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=9.071s], FHWRasterizePS [WorkerTime=7.935s], TShadowDepthVSVertexShadowDepth_PerspectiveCorrect [WorkerTime=4.695s], FHitProxyPS [WorkerTime=3.069s], FLightFunctionPS [WorkerTime=1.629s], FLightFunctionVS [WorkerTime=0.511s]
+[2022.07.13-08.35.38:837][  0]LogShaderCompilers: Display: Worker (5/9) finished batch of 10 jobs in 152.651s, TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=39.322s], TBasePassPSTLightMapPolicyHQ [WorkerTime=39.141s], TBasePassVSFNoLightMapPolicy [WorkerTime=18.175s], FHWRasterizeVS [WorkerTime=16.241s], FTranslucentLightingInjectPS [WorkerTime=8.164s], TTranslucencyShadowDepthPS<TranslucencyShadowDepth_Standard> [WorkerTime=4.618s], FTranslucentLightingInjectPS [WorkerTime=3.609s], FTranslucentLightingInjectPS [WorkerTime=3.027s], FTranslucentLightingInjectPS [WorkerTime=2.772s], VelocityPipeline
+[2022.07.13-08.35.38:837][  0]LogShaderCompilers: Display: Worker (2/9) finished batch of 10 jobs in 179.262s, TBasePassPSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=43.274s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=39.311s], TBasePassPSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=34.437s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=32.101s], TBasePassVSFNoLightMapPolicy [WorkerTime=8.644s], FTranslucentLightingInjectPS [WorkerTime=4.921s], FTranslucentLightingInjectPS [WorkerTime=4.652s], TShadowDepthVSVertexShadowDepth_OnePassPointLight [WorkerTime=3.763s], FTranslucentLightingInjectPS [WorkerTime=3.448s], FTranslucentLightingInjectPS [WorkerTime=2.114s]
+[2022.07.13-08.35.38:837][  0]LogShaderCompilers: Display: Worker (6/9) finished batch of 10 jobs in 143.639s, TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=47.681s], TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=37.288s], TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=14.292s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=9.180s], TBasePassVSFSelfShadowedTranslucencyPolicy [WorkerTime=6.702s], FDebugViewModeVS [WorkerTime=6.666s], FDebugViewModeVS [WorkerTime=5.817s], FDebugViewModePS [WorkerTime=5.691s], FDebugViewModeVS [WorkerTime=5.486s], FHWRasterizeVS [WorkerTime=4.327s]
+[2022.07.13-08.35.38:837][  0]LogShaderCompilers: Display: Worker (8/9) finished batch of 10 jobs in 105.937s, TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight [WorkerTime=37.002s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=30.590s], TTranslucencyShadowDepthVS<TranslucencyShadowDepth_Standard> [WorkerTime=8.261s], FHitProxyVS [WorkerTime=7.469s], FHWRasterizeVS [WorkerTime=5.434s], FHWRasterizeVS [WorkerTime=4.775s], FMeshDecalsEmissivePS [WorkerTime=4.255s], FHWRasterizeVS [WorkerTime=3.529s], FDeferredDecalEmissivePS [WorkerTime=2.422s], TShadowDepthPSPixelShadowDepth_OnePassPointLight [WorkerTime=1.861s]
+[2022.07.13-08.35.38:838][  0]LogShaderCompilers: Display: Worker (4/9) finished batch of 10 jobs in 150.747s, TBasePassPSFNoLightMapPolicySkylight [WorkerTime=37.724s], TBasePassPSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=32.741s], TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight [WorkerTime=28.225s], TShadowDepthVSVertexShadowDepth_VirtualShadowMap [WorkerTime=10.504s], TTranslucencyShadowDepthVS<TranslucencyShadowDepth_Standard> [WorkerTime=10.219s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=9.263s], TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=9.248s], TShadowDepthVSVertexShadowDepth_OutputDepth [WorkerTime=7.047s], TTranslucencyShadowDepthPS<TranslucencyShadowDepth_Standard> [WorkerTime=3.451s], TTranslucencyShadowDepthPS<TranslucencyShadowDepth_PerspectiveCorrect> [WorkerTime=1.877s]
+[2022.07.13-08.35.38:839][  0]LogShaderCompilers: Display: Worker (9/9) finished batch of 10 jobs in 184.130s, TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=42.611s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=38.073s], TBasePassPSTLightMapPolicyLQSkylight [WorkerTime=36.298s], TBasePassPSFSelfShadowedTranslucencyPolicySkylight [WorkerTime=25.351s], FHWRasterizeVS [WorkerTime=13.273s], FHWRasterizeVS [WorkerTime=9.533s], TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect [WorkerTime=4.710s], FHWRasterizePS [WorkerTime=3.066s], FTranslucentLightingInjectPS [WorkerTime=1.949s], DepthNoPixelPipeline
+[2022.07.13-08.35.38:839][  0]LogShaderCompilers: Display: Worker (1/9) finished batch of 10 jobs in 177.037s, TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight [WorkerTime=44.667s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=39.105s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight [WorkerTime=30.621s], TBasePassVSTLightMapPolicyLQ [WorkerTime=16.789s], FHWRasterizeVS [WorkerTime=12.449s], TBasePassVSTLightMapPolicyHQ [WorkerTime=9.027s], TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> [WorkerTime=4.462s], TLightMapDensityPSFNoLightMapPolicy [WorkerTime=2.196s], FDeferredDecalPS [WorkerTime=2.035s], VelocityPipeline
+[2022.07.13-08.35.38:839][  0]LogShaderCompilers: Display: Worker (5/9) finished batch of 10 jobs in 95.607s, TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight [WorkerTime=26.980s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=9.564s], TBasePassVSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=9.357s], FDebugViewModePS [WorkerTime=9.057s], TBasePassVSTLightMapPolicyLQ [WorkerTime=8.809s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=8.708s], FHWRasterizeVS [WorkerTime=6.259s], FDebugViewModeVS [WorkerTime=5.690s], FHWRasterizeVS [WorkerTime=3.760s], DepthNoPixelPipeline
+[2022.07.13-08.35.38:839][  0]LogShaderCompilers: Display: Worker (7/9) finished batch of 10 jobs in 132.181s, TBasePassPSTLightMapPolicyHQ [WorkerTime=36.074s], TBasePassPSFNoLightMapPolicy [WorkerTime=31.568s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=26.215s], TBasePassVSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=8.463s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=7.693s], FDebugViewModePS [WorkerTime=7.375s], TShadowDepthVSVertexShadowDepth_VirtualShadowMap [WorkerTime=4.146s], FMeshDecalsVS [WorkerTime=3.954s], TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> [WorkerTime=3.326s], TShadowDepthPSPixelShadowDepth_PerspectiveCorrect [WorkerTime=2.970s]
+[2022.07.13-08.35.38:840][  0]LogShaderCompilers: Display: Worker (3/9) finished batch of 10 jobs in 189.023s, TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=45.941s], TBasePassPSTLightMapPolicyHQSkylight [WorkerTime=37.488s], TBasePassPSTLightMapPolicyLQ [WorkerTime=35.337s], TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight [WorkerTime=31.033s], TBasePassVSFCachedVolumeIndirectLightingPolicy [WorkerTime=9.590s], FHWRasterizeVS [WorkerTime=8.691s], FDebugViewModePS [WorkerTime=7.138s], FDebugViewModePS [WorkerTime=5.111s], TTranslucencyShadowDepthPS<TranslucencyShadowDepth_Standard> [WorkerTime=4.268s], FMeshDecalsPS [WorkerTime=3.533s]
+[2022.07.13-08.35.38:840][  0]LogShaderCompilers: Display: Worker (6/9) finished batch of 10 jobs in 112.329s, TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight [WorkerTime=36.944s], TBasePassVSFSelfShadowedTranslucencyPolicy [WorkerTime=12.680s], TBasePassVSFNoLightMapPolicy [WorkerTime=10.600s], FHWRasterizeVS [WorkerTime=7.357s], TShadowDepthVSVertexShadowDepth_OutputDepth [WorkerTime=6.632s], TBasePassVSFNoLightMapPolicy [WorkerTime=5.186s], TTranslucencyShadowDepthVS<TranslucencyShadowDepth_Standard> [WorkerTime=4.327s], TLightMapDensityPSTLightMapPolicyHQ [WorkerTime=4.124s], VelocityPipeline, DepthNoPixelPipeline
+[2022.07.13-08.35.38:840][  0]LogShaderCompilers: Display: Worker (8/9) finished batch of 10 jobs in 127.533s, TBasePassPSTLightMapPolicyLQSkylight [WorkerTime=28.735s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight [WorkerTime=28.413s], TBasePassVSFNoLightMapPolicy [WorkerTime=13.716s], TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=12.266s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=9.446s], TBasePassVSFNoLightMapPolicy [WorkerTime=7.284s], FHWRasterizePS [WorkerTime=7.122s], FHWRasterizeVS [WorkerTime=6.239s], FMeshDecalsEmissivePS [WorkerTime=4.066s], VelocityPipeline
+[2022.07.13-08.35.38:840][  0]LogShaderCompilers: Display: Worker (4/9) finished batch of 10 jobs in 129.564s, TBasePassPSFNoLightMapPolicySkylight [WorkerTime=61.330s], TBasePassPSTLightMapPolicyHQSkylight [WorkerTime=31.501s], FHWRasterizeVS [WorkerTime=8.009s], FHWRasterizeVS [WorkerTime=6.620s], FHWRasterizePS [WorkerTime=5.117s], FHWRasterizePS [WorkerTime=3.610s], FMeshDecalsPS [WorkerTime=2.824s], TTranslucencyShadowDepthPS<TranslucencyShadowDepth_PerspectiveCorrect> [WorkerTime=2.631s], TShadowDepthPSPixelShadowDepth_OnePassPointLight [WorkerTime=2.244s], DepthNoPixelPipeline
+[2022.07.13-08.35.38:840][  0]LogShaderCompilers: Display: Worker (7/9) finished batch of 10 jobs in 102.631s, TBasePassPSFNoLightMapPolicySkylight [WorkerTime=38.283s], TShadowDepthVSVertexShadowDepth_OnePassPointLightPositionOnly [WorkerTime=11.507s], TLightMapDensityVSFNoLightMapPolicy [WorkerTime=11.446s], FHWRasterizeVS [WorkerTime=8.789s], FHWRasterizeVS [WorkerTime=7.734s], FHWRasterizePS [WorkerTime=7.090s], TLightMapDensityVSFNoLightMapPolicy [WorkerTime=5.099s], FMeshDecalsVS [WorkerTime=4.624s], FHWRasterizeVS [WorkerTime=3.527s], FHWRasterizeVS [WorkerTime=3.354s]
+[2022.07.13-08.35.38:841][  0]LogShaderCompilers: Display: Worker (4/9) finished batch of 10 jobs in 61.495s, FHWRasterizeVS [WorkerTime=12.921s], TShadowDepthVSVertexShadowDepth_OutputDepth [WorkerTime=9.009s], FHWRasterizePS [WorkerTime=6.320s], FHWRasterizePS [WorkerTime=5.678s], FHWRasterizePS [WorkerTime=5.346s], FHWRasterizePS [WorkerTime=5.214s], FHWRasterizeVS [WorkerTime=4.738s], FHWRasterizeVS [WorkerTime=4.635s], FHWRasterizeVS [WorkerTime=4.030s], FHWRasterizeVS [WorkerTime=3.162s]
+[2022.07.13-08.35.38:841][  0]LogShaderCompilers: Display: Worker (9/9) finished batch of 10 jobs in 187.226s, TBasePassPSFNoLightMapPolicySkylight [WorkerTime=42.488s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=36.052s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=33.843s], TBasePassPSFSelfShadowedTranslucencyPolicySkylight [WorkerTime=32.215s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=12.365s], FHWRasterizePS [WorkerTime=9.804s], TShadowDepthVSVertexShadowDepth_OutputDepth [WorkerTime=7.896s], FHWRasterizePS [WorkerTime=6.803s], TShadowDepthPSPixelShadowDepth_PerspectiveCorrect [WorkerTime=2.336s], TTranslucencyShadowDepthPS<TranslucencyShadowDepth_PerspectiveCorrect> [WorkerTime=1.863s]
+[2022.07.13-08.35.38:841][  0]LogShaderCompilers: Display: Worker (6/9) finished batch of 10 jobs in 62.163s, TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=10.363s], FHWRasterizeVS [WorkerTime=4.566s], FHWRasterizePS [WorkerTime=4.547s], FHWRasterizeVS [WorkerTime=4.266s], FHWRasterizePS [WorkerTime=3.839s], FHWRasterizeVS [WorkerTime=3.496s], FHWRasterizeVS [WorkerTime=2.855s], FHWRasterizeVS [WorkerTime=2.707s], TShadowDepthPSPixelShadowDepth_VirtualShadowMap [WorkerTime=2.706s], VelocityPipeline
+[2022.07.13-08.35.38:842][  0]LogShaderCompilers: Display: Worker (3/9) finished batch of 10 jobs in 151.686s, TBasePassPSFSelfShadowedTranslucencyPolicy [WorkerTime=49.673s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=40.167s], TBasePassVSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=13.926s], FHWRasterizePS [WorkerTime=12.271s], FHWRasterizeVS [WorkerTime=7.665s], FHWRasterizePS [WorkerTime=6.897s], FHWRasterizePS [WorkerTime=6.479s], FHitProxyVS [WorkerTime=5.156s], FHWRasterizeVS [WorkerTime=4.568s], FHWRasterizeVS [WorkerTime=4.221s]
+[2022.07.13-08.35.38:842][  0]LogShaderCompilers: Display: Worker (5/9) finished batch of 10 jobs in 198.022s, TBasePassPSFNoLightMapPolicy [WorkerTime=47.777s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=38.617s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=34.287s], TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight [WorkerTime=32.080s], TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=10.102s], FHWRasterizeVS [WorkerTime=6.775s], FHWRasterizeVS [WorkerTime=3.005s], TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect [WorkerTime=2.172s], FMeshDecalsPS [WorkerTime=1.827s], VelocityPipeline
+[2022.07.13-08.35.38:842][  0]LogShaderCompilers: Display: Worker (1/9) finished batch of 10 jobs in 230.786s, TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=40.147s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=39.122s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=37.080s], TBasePassPSFNoLightMapPolicy [WorkerTime=34.427s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=33.563s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=23.763s], FDebugViewModeVS [WorkerTime=12.123s], FMeshDecalsEmissivePS [WorkerTime=4.044s], TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect [WorkerTime=2.672s], FHitProxyPS [WorkerTime=1.820s]
+[2022.07.13-08.35.38:842][  0]LogShaderCompilers: Display: Worker (8/9) finished batch of 10 jobs in 133.240s, TBasePassPSFNoLightMapPolicy [WorkerTime=61.593s], FHWRasterizePS [WorkerTime=20.325s], FHWRasterizeVS [WorkerTime=8.040s], TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> [WorkerTime=7.875s], FHWRasterizeVS [WorkerTime=7.335s], FHWRasterizePS [WorkerTime=5.715s], FHWRasterizePS [WorkerTime=5.693s], FHWRasterizeVS [WorkerTime=5.223s], FHitProxyPS [WorkerTime=5.206s], FHWRasterizeVS [WorkerTime=5.085s]
+[2022.07.13-08.35.38:842][  0]LogShaderCompilers: Display: Worker (2/9) finished batch of 10 jobs in 296.298s, TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=76.478s], TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=46.418s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=36.908s], TBasePassPSFSelfShadowedTranslucencyPolicySkylight [WorkerTime=36.888s], TBasePassPSTLightMapPolicyLQ [WorkerTime=34.422s], TBasePassPSFSelfShadowedTranslucencyPolicy [WorkerTime=32.189s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=12.888s], TBasePassVSFNoLightMapPolicy [WorkerTime=9.823s], FHWRasterizeVS [WorkerTime=5.141s], FDebugViewModeVS [WorkerTime=2.957s]
+[2022.07.13-08.35.38:842][  0]LogShaderCompilers: Display: Worker (6/9) finished batch of 10 jobs in 76.657s, TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=15.315s], TShadowDepthVSVertexShadowDepth_OutputDepthPositionOnly [WorkerTime=14.635s], FHWRasterizeVS [WorkerTime=8.979s], FHWRasterizeVS [WorkerTime=7.980s], FHWRasterizeVS [WorkerTime=5.392s], FHWRasterizeVS [WorkerTime=5.205s], FHWRasterizeVS [WorkerTime=4.922s], FHWRasterizeVS [WorkerTime=4.498s], FHWRasterizeVS [WorkerTime=4.207s], FHWRasterizeVS [WorkerTime=4.048s]
+[2022.07.13-08.35.38:842][  0]LogShaderCompilers: Display: Worker (9/9) finished batch of 10 jobs in 100.549s, TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=52.869s], FHWRasterizeVS [WorkerTime=7.816s], FHWRasterizeVS [WorkerTime=7.521s], FHWRasterizeVS [WorkerTime=5.695s], FHWRasterizeVS [WorkerTime=5.450s], FHWRasterizeVS [WorkerTime=5.152s], FHWRasterizeVS [WorkerTime=4.406s], FHWRasterizeVS [WorkerTime=4.076s], FHWRasterizeVS [WorkerTime=3.958s], FHWRasterizeVS [WorkerTime=2.950s]
+[2022.07.13-08.35.38:842][  0]LogShaderCompilers: Display: Worker (7/9) finished batch of 10 jobs in 175.459s, TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=59.088s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=45.426s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=15.783s], FHWRasterizeVS [WorkerTime=11.809s], FHWRasterizeVS [WorkerTime=9.306s], FHWRasterizeVS [WorkerTime=8.603s], TShadowDepthPSPixelShadowDepth_OnePassPointLight [WorkerTime=6.921s], FHWRasterizeVS [WorkerTime=6.194s], FHWRasterizeVS [WorkerTime=5.929s], FHWRasterizeVS [WorkerTime=4.704s]
+[2022.07.13-08.35.38:842][  0]LogShaderCompilers: Display: Worker (3/9) finished batch of 10 jobs in 148.642s, TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=41.400s], TBasePassVSFNoLightMapPolicy [WorkerTime=19.881s], FHWRasterizeVS [WorkerTime=15.200s], FHWRasterizeVS [WorkerTime=10.924s], FHitProxyPS [WorkerTime=9.780s], FHWRasterizeVS [WorkerTime=8.565s], FHWRasterizeVS [WorkerTime=8.538s], FHWRasterizeVS [WorkerTime=5.676s], TLightMapDensityPSFNoLightMapPolicy [WorkerTime=4.876s], VelocityPipeline
+[2022.07.13-08.35.38:842][  0]LogShaderCompilers: Display: Worker (7/9) finished batch of 10 jobs in 86.000s, TShadowDepthVSVertexShadowDepth_PerspectiveCorrect [WorkerTime=12.440s], FHWRasterizeVS [WorkerTime=8.823s], FHWRasterizeVS [WorkerTime=8.624s], FHWRasterizeVS [WorkerTime=7.952s], FHWRasterizeVS [WorkerTime=7.638s], FHWRasterizeVS [WorkerTime=7.307s], FHWRasterizeVS [WorkerTime=6.658s], TShadowDepthPSPixelShadowDepth_OnePassPointLight [WorkerTime=6.311s], FHWRasterizeVS [WorkerTime=5.785s], FHWRasterizeVS [WorkerTime=4.266s]
+[2022.07.13-08.35.38:842][  0]LogShaderCompilers: Display: Worker (4/9) finished batch of 10 jobs in 227.853s, TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=57.472s], TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=55.626s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=54.892s], FHWRasterizeVS [WorkerTime=13.974s], FHWRasterizePS [WorkerTime=13.678s], FHWRasterizeVS [WorkerTime=10.531s], FHWRasterizeVS [WorkerTime=6.899s], FHWRasterizeVS [WorkerTime=5.898s], FHWRasterizeVS [WorkerTime=4.363s], FHWRasterizeVS [WorkerTime=4.014s]
+[2022.07.13-08.35.38:842][  0]LogShaderCompilers: Display: Worker (5/9) finished batch of 10 jobs in 180.067s, TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=57.361s], TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=57.225s], TBasePassVSFCachedVolumeIndirectLightingPolicy [WorkerTime=14.996s], FHWRasterizeVS [WorkerTime=8.360s], FHWRasterizeVS [WorkerTime=8.279s], FHWRasterizeVS [WorkerTime=7.979s], FHWRasterizeVS [WorkerTime=7.614s], FHWRasterizeVS [WorkerTime=6.295s], FHWRasterizeVS [WorkerTime=5.643s], FHWRasterizeVS [WorkerTime=5.287s]
+[2022.07.13-08.35.38:843][  0]LogShaderCompilers: Display: Worker (1/9) finished batch of 10 jobs in 186.532s, TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=67.135s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=51.894s], FHWRasterizeVS [WorkerTime=11.761s], FHWRasterizeVS [WorkerTime=8.912s], FHWRasterizeVS [WorkerTime=8.610s], TShadowDepthVSVertexShadowDepth_PerspectiveCorrect [WorkerTime=8.491s], FHWRasterizeVS [WorkerTime=7.317s], FHWRasterizeVS [WorkerTime=7.136s], FHWRasterizeVS [WorkerTime=6.753s], FHWRasterizeVS [WorkerTime=5.390s]
+[2022.07.13-08.35.38:843][  0]LogShaderCompilers: Display: Worker (9/9) finished batch of 10 jobs in 149.713s, TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=42.165s], TBasePassPSFNoLightMapPolicy [WorkerTime=41.304s], TBasePassVSFCachedVolumeIndirectLightingPolicy [WorkerTime=14.214s], TBasePassVSFCachedVolumeIndirectLightingPolicy [WorkerTime=10.121s], FHWRasterizeVS [WorkerTime=9.015s], FHWRasterizeVS [WorkerTime=7.569s], FHWRasterizeVS [WorkerTime=6.952s], FHWRasterizeVS [WorkerTime=6.843s], FHWRasterizeVS [WorkerTime=5.517s], FHWRasterizeVS [WorkerTime=5.491s]
+[2022.07.13-08.35.38:843][  0]LogShaderCompilers: Display: Worker (8/9) finished batch of 10 jobs in 214.614s, TBasePassPSTLightMapPolicyLQSkylight [WorkerTime=100.242s], TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=36.926s], FHWRasterizeVS [WorkerTime=14.278s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=11.255s], FHWRasterizeVS [WorkerTime=10.956s], FHWRasterizeVS [WorkerTime=9.548s], FHWRasterizeVS [WorkerTime=8.553s], FHWRasterizeVS [WorkerTime=7.305s], FHWRasterizeVS [WorkerTime=7.051s], FHWRasterizeVS [WorkerTime=5.922s]
+[2022.07.13-08.35.38:843][  0]LogShaderCompilers: Display: Worker (2/9) finished batch of 10 jobs in 202.312s, TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=50.666s], TBasePassPSTLightMapPolicyLQSkylight [WorkerTime=46.301s], TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=44.155s], FHWRasterizeVS [WorkerTime=15.294s], FHWRasterizeVS [WorkerTime=9.552s], FHWRasterizeVS [WorkerTime=8.361s], FHWRasterizeVS [WorkerTime=7.472s], FHWRasterizeVS [WorkerTime=6.541s], TLightMapDensityPSFNoLightMapPolicy [WorkerTime=3.965s], DepthNoPixelPipeline
+[2022.07.13-08.35.38:843][  0]LogShaderCompilers: Display: Worker (6/9) finished batch of 10 jobs in 209.528s, TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=84.404s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=33.386s], FHWRasterizeVS [WorkerTime=20.240s], FHWRasterizeVS [WorkerTime=19.289s], FHWRasterizeVS [WorkerTime=15.892s], FHWRasterizeVS [WorkerTime=8.670s], FHWRasterizeVS [WorkerTime=6.036s], FHWRasterizeVS [WorkerTime=5.467s], FHWRasterizeVS [WorkerTime=5.061s], FHWRasterizeVS [WorkerTime=3.972s]
+[2022.07.13-08.35.38:844][  0]LogShaderCompilers: Display: Worker (7/9) finished batch of 10 jobs in 84.379s, TShadowDepthVSVertexShadowDepth_OnePassPointLight [WorkerTime=10.821s], FHWRasterizeVS [WorkerTime=10.773s], TBasePassVSFCachedVolumeIndirectLightingPolicy [WorkerTime=10.294s], FHWRasterizeVS [WorkerTime=10.071s], FHWRasterizeVS [WorkerTime=9.421s], FDebugViewModeVS [WorkerTime=7.583s], FHWRasterizeVS [WorkerTime=7.198s], FHWRasterizeVS [WorkerTime=6.961s], FHWRasterizeVS [WorkerTime=5.110s], FHWRasterizeVS [WorkerTime=5.012s]
+[2022.07.13-08.35.38:844][  0]LogShaderCompilers: Display: Worker (1/9) finished batch of 10 jobs in 69.428s, TBasePassVSFNoLightMapPolicy [WorkerTime=15.969s], FHWRasterizeVS [WorkerTime=8.167s], FHWRasterizeVS [WorkerTime=7.400s], FHWRasterizeVS [WorkerTime=7.391s], FHWRasterizeVS [WorkerTime=6.847s], FHWRasterizeVS [WorkerTime=5.467s], FHWRasterizeVS [WorkerTime=5.048s], FHWRasterizeVS [WorkerTime=4.752s], FHWRasterizeVS [WorkerTime=4.000s], FHWRasterizeVS [WorkerTime=2.979s]
+[2022.07.13-08.35.38:844][  0]LogShaderCompilers: Display: Worker (3/9) finished batch of 10 jobs in 128.624s, TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=51.976s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=23.689s], FHWRasterizeVS [WorkerTime=10.153s], TShadowDepthVSVertexShadowDepth_VirtualShadowMap [WorkerTime=8.231s], TShadowDepthVSVertexShadowDepth_VirtualShadowMap [WorkerTime=8.041s], FHWRasterizeVS [WorkerTime=7.816s], TLightMapDensityPSFNoLightMapPolicy [WorkerTime=5.988s], FHWRasterizeVS [WorkerTime=4.674s], FHWRasterizeVS [WorkerTime=3.915s], FHWRasterizeVS [WorkerTime=3.403s]
+[2022.07.13-08.35.38:844][  0]LogShaderCompilers: Display: Worker (9/9) finished batch of 10 jobs in 87.137s, FHWRasterizeVS [WorkerTime=8.324s], FHWRasterizeVS [WorkerTime=8.091s], FLandscapePhysicalMaterialVS [WorkerTime=7.389s], FHWRasterizeVS [WorkerTime=7.250s], FHWRasterizeVS [WorkerTime=5.964s], FHWRasterizeVS [WorkerTime=5.863s], FHWRasterizeVS [WorkerTime=5.831s], FHWRasterizeVS [WorkerTime=3.947s], FHWRasterizeVS [WorkerTime=3.785s], VelocityPipeline
+[2022.07.13-08.35.38:844][  0]LogShaderCompilers: Display: Worker (4/9) finished batch of 10 jobs in 139.309s, TBasePassPSFNoLightMapPolicySkylight [WorkerTime=60.448s], FDebugViewModePS [WorkerTime=14.808s], FHWRasterizeVS [WorkerTime=9.422s], FHWRasterizeVS [WorkerTime=9.419s], FHWRasterizeVS [WorkerTime=9.073s], FHWRasterizeVS [WorkerTime=7.973s], FHWRasterizeVS [WorkerTime=7.546s], FHWRasterizeVS [WorkerTime=6.639s], FHWRasterizeVS [WorkerTime=4.758s], FHWRasterizeVS [WorkerTime=4.611s]
+[2022.07.13-08.35.38:844][  0]LogShaderCompilers: Display: Worker (1/9) finished batch of 10 jobs in 113.278s, FHWRasterizeVS [WorkerTime=23.489s], FHitProxyVS [WorkerTime=14.505s], FHWRasterizeVS [WorkerTime=14.458s], FHWRasterizeVS [WorkerTime=13.146s], FHWRasterizeVS [WorkerTime=12.426s], FHWRasterizeVS [WorkerTime=11.878s], FHWRasterizeVS [WorkerTime=10.609s], FHWRasterizeVS [WorkerTime=6.779s], FHitProxyVS [WorkerTime=3.470s], TShadowDepthPSPixelShadowDepth_OnePassPointLight [WorkerTime=1.301s]
+[2022.07.13-08.35.38:844][  0]LogShaderCompilers: Display: Worker (8/9) finished batch of 10 jobs in 181.621s, TBasePassPSTLightMapPolicyHQ [WorkerTime=51.816s], FHWRasterizeVS [WorkerTime=25.802s], TShadowDepthVSVertexShadowDepth_OnePassPointLightPositionOnly [WorkerTime=24.511s], FHWRasterizeVS [WorkerTime=22.860s], FHWRasterizeVS [WorkerTime=13.830s], FHWRasterizeVS [WorkerTime=11.379s], FHWRasterizeVS [WorkerTime=8.944s], TShadowDepthPSPixelShadowDepth_VirtualShadowMap [WorkerTime=5.254s], TShadowDepthPSPixelShadowDepth_PerspectiveCorrect [WorkerTime=2.570s], DepthNoPixelPipeline
+[2022.07.13-08.35.38:845][  0]LogShaderCompilers: Display: Worker (5/9) finished batch of 10 jobs in 227.924s, TBasePassPSFNoLightMapPolicySkylight [WorkerTime=93.306s], TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=47.908s], TShadowDepthVSVertexShadowDepth_PerspectiveCorrectPositionOnly [WorkerTime=19.191s], FDebugViewModeVS [WorkerTime=19.150s], TShadowDepthPSPixelShadowDepth_OnePassPointLight [WorkerTime=10.543s], FHWRasterizeVS [WorkerTime=8.703s], TLightMapDensityVSFNoLightMapPolicy [WorkerTime=7.827s], FHWRasterizeVS [WorkerTime=7.637s], FHWRasterizeVS [WorkerTime=6.654s], TLightMapDensityPSFNoLightMapPolicy [WorkerTime=5.050s]
+[2022.07.13-08.35.38:845][  0]LogShaderCompilers: Display: Worker (7/9) finished batch of 10 jobs in 170.839s, TBasePassPSTLightMapPolicyLQ [WorkerTime=96.072s], FHWRasterizeVS [WorkerTime=16.952s], FHWRasterizeVS [WorkerTime=9.031s], FHWRasterizeVS [WorkerTime=8.790s], FHWRasterizeVS [WorkerTime=7.370s], FHWRasterizeVS [WorkerTime=7.014s], FHWRasterizeVS [WorkerTime=6.491s], FHWRasterizeVS [WorkerTime=5.910s], FHWRasterizeVS [WorkerTime=4.815s], TLightMapDensityVSFNoLightMapPolicy [WorkerTime=4.095s]
+[2022.07.13-08.35.38:845][  0]LogShaderCompilers: Display: Worker (3/9) finished batch of 10 jobs in 168.138s, TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=61.961s], TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=52.357s], FHWRasterizeVS [WorkerTime=10.077s], FHitProxyVS [WorkerTime=8.690s], FHWRasterizeVS [WorkerTime=7.651s], FHWRasterizeVS [WorkerTime=7.165s], FHWRasterizeVS [WorkerTime=5.628s], FHWRasterizeVS [WorkerTime=5.249s], FHWRasterizeVS [WorkerTime=3.897s], FHitProxyPS [WorkerTime=3.714s]
+[2022.07.13-08.35.38:845][  0]LogShaderCompilers: Display: Worker (6/9) finished batch of 10 jobs in 187.558s, TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=62.855s], FDebugViewModePS [WorkerTime=33.272s], FHWRasterizeVS [WorkerTime=25.471s], TBasePassVSTLightMapPolicyHQ [WorkerTime=19.220s], FHWRasterizeVS [WorkerTime=12.194s], FHWRasterizeVS [WorkerTime=8.567s], FHWRasterizeVS [WorkerTime=7.719s], FHWRasterizeVS [WorkerTime=6.261s], FHWRasterizeVS [WorkerTime=4.834s], FHWRasterizeVS [WorkerTime=4.606s]
+[2022.07.13-08.35.38:845][  0]LogShaderCompilers: Display: Worker (2/9) finished batch of 10 jobs in 172.579s, TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=64.704s], TBasePassPSFNoLightMapPolicy [WorkerTime=44.296s], TLightMapDensityPSTLightMapPolicyHQ [WorkerTime=13.824s], FHWRasterizeVS [WorkerTime=8.327s], TShadowDepthVSVertexShadowDepth_OutputDepth [WorkerTime=7.986s], FDebugViewModeVS [WorkerTime=7.970s], FHWRasterizeVS [WorkerTime=7.639s], FHWRasterizeVS [WorkerTime=7.060s], FHWRasterizeVS [WorkerTime=5.692s], TLightMapDensityPSFDummyLightMapPolicy [WorkerTime=3.118s]
+[2022.07.13-08.35.38:845][  0]LogShaderCompilers: Display: Worker (9/9) finished batch of 10 jobs in 194.855s, TBasePassPSTLightMapPolicyHQSkylight [WorkerTime=51.460s], TBasePassPSFNoLightMapPolicy [WorkerTime=43.889s], FHWRasterizeVS [WorkerTime=18.248s], TBasePassVSTLightMapPolicyLQ [WorkerTime=16.730s], TBasePassVSFCachedVolumeIndirectLightingPolicy [WorkerTime=11.499s], TShadowDepthVSVertexShadowDepth_OutputDepth [WorkerTime=10.928s], FHWRasterizeVS [WorkerTime=10.741s], FHWRasterizeVS [WorkerTime=8.104s], FHWRasterizeVS [WorkerTime=7.907s], FHWRasterizeVS [WorkerTime=5.379s]
+[2022.07.13-08.35.38:845][  0]LogShaderCompilers: Display: Worker (4/9) finished batch of 10 jobs in 184.180s, TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=57.764s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=30.498s], FHWRasterizeVS [WorkerTime=20.076s], TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=17.238s], FHWRasterizeVS [WorkerTime=11.727s], FHWRasterizeVS [WorkerTime=9.979s], FHWRasterizeVS [WorkerTime=8.769s], FHWRasterizeVS [WorkerTime=7.773s], FHWRasterizeVS [WorkerTime=7.589s], FHWRasterizeVS [WorkerTime=6.125s]
+[2022.07.13-08.35.38:845][  0]LogShaderCompilers: Display: Worker (5/9) finished batch of 10 jobs in 112.308s, TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=48.408s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=14.162s], TLightMapDensityVSFDummyLightMapPolicy [WorkerTime=8.767s], FHWRasterizeVS [WorkerTime=8.306s], FHWRasterizeVS [WorkerTime=8.138s], FHWRasterizeVS [WorkerTime=7.074s], FHWRasterizeVS [WorkerTime=5.195s], FHWRasterizeVS [WorkerTime=4.095s], FHWRasterizeVS [WorkerTime=3.839s], TLightMapDensityPSTLightMapPolicyLQ [WorkerTime=3.606s]
+[2022.07.13-08.35.38:845][  0]LogShaderCompilers: Display: Worker (6/9) finished batch of 10 jobs in 77.785s, TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=11.323s], FHWRasterizeVS [WorkerTime=10.173s], FHWRasterizeVS [WorkerTime=10.039s], FHWRasterizeVS [WorkerTime=8.343s], FHWRasterizeVS [WorkerTime=7.658s], TBasePassVSFNoLightMapPolicy [WorkerTime=7.473s], FHWRasterizeVS [WorkerTime=6.827s], TShadowDepthVSVertexShadowDepth_OnePassPointLight [WorkerTime=6.576s], FHWRasterizeVS [WorkerTime=4.380s], TShadowDepthVSVertexShadowDepth_PerspectiveCorrect [WorkerTime=2.896s]
+[2022.07.13-08.35.38:845][  0]LogShaderCompilers: Display: Worker (2/9) finished batch of 10 jobs in 99.429s, TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=37.813s], FHWRasterizeVS [WorkerTime=11.830s], FHWRasterizeVS [WorkerTime=8.630s], FHWRasterizeVS [WorkerTime=8.470s], FHWRasterizeVS [WorkerTime=6.168s], FHWRasterizeVS [WorkerTime=6.106s], FHWRasterizeVS [WorkerTime=6.100s], FHWRasterizeVS [WorkerTime=5.693s], TShadowDepthPSPixelShadowDepth_PerspectiveCorrect [WorkerTime=3.960s], FHWRasterizeVS [WorkerTime=3.094s]
+[2022.07.13-08.35.38:845][  0]LogShaderCompilers: Display: Worker (3/9) finished batch of 10 jobs in 150.820s, TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=48.982s], TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=47.348s], FHWRasterizeVS [WorkerTime=12.232s], TShadowDepthVSVertexShadowDepth_PerspectiveCorrectPositionOnly [WorkerTime=11.978s], FHWRasterizeVS [WorkerTime=8.860s], TLightMapDensityVSFNoLightMapPolicy [WorkerTime=6.919s], TShadowDepthVSVertexShadowDepth_PerspectiveCorrect [WorkerTime=3.828s], FHWRasterizeVS [WorkerTime=3.766s], TShadowDepthPSPixelShadowDepth_VirtualShadowMap [WorkerTime=3.210s], TShadowDepthPSPixelShadowDepth_VirtualShadowMap [WorkerTime=3.049s]
+[2022.07.13-08.35.38:846][  0]LogShaderCompilers: Display: Worker (1/9) finished batch of 10 jobs in 235.493s, TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=65.945s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=57.387s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=45.363s], TShadowDepthVSVertexShadowDepth_PerspectiveCorrect [WorkerTime=11.362s], TLightMapDensityVSFDummyLightMapPolicy [WorkerTime=8.834s], FHWRasterizeVS [WorkerTime=5.635s], FHWRasterizeVS [WorkerTime=5.519s], FHWRasterizeVS [WorkerTime=4.679s], TShadowDepthPSPixelShadowDepth_VirtualShadowMap [WorkerTime=3.675s], VelocityPipeline
+[2022.07.13-08.35.38:846][  0]LogShaderCompilers: Display: Worker (5/9) finished batch of 10 jobs in 102.957s, TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=14.129s], TBasePassVSFCachedVolumeIndirectLightingPolicy [WorkerTime=11.588s], FDebugViewModePS [WorkerTime=9.384s], TLightMapDensityVSFDummyLightMapPolicy [WorkerTime=7.954s], TLightMapDensityVSTLightMapPolicyHQ [WorkerTime=6.364s], FHWRasterizeVS [WorkerTime=6.064s], FHWRasterizeVS [WorkerTime=5.000s], FHWRasterizeVS [WorkerTime=4.915s], VelocityPipeline, DepthNoPixelPipeline
+[2022.07.13-08.35.38:846][  0]LogShaderCompilers: Display: Worker (8/9) finished batch of 10 jobs in 219.122s, TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=60.475s], TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=58.084s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=53.005s], FHWRasterizeVS [WorkerTime=11.060s], FHWRasterizeVS [WorkerTime=8.545s], FHWRasterizeVS [WorkerTime=8.307s], FHWRasterizeVS [WorkerTime=7.041s], FHWRasterizeVS [WorkerTime=4.501s], FHWRasterizeVS [WorkerTime=3.764s], TShadowDepthPSPixelShadowDepth_OnePassPointLight [WorkerTime=3.622s]
+[2022.07.13-08.35.38:846][  0]LogShaderCompilers: Display: Worker (4/9) finished batch of 10 jobs in 130.406s, TBasePassPSFNoLightMapPolicySkylight [WorkerTime=51.895s], FHWRasterizeVS [WorkerTime=23.496s], FHWRasterizeVS [WorkerTime=11.116s], FHWRasterizeVS [WorkerTime=8.124s], FHWRasterizeVS [WorkerTime=5.651s], FHWRasterizeVS [WorkerTime=5.015s], FHWRasterizeVS [WorkerTime=3.966s], FHWRasterizeVS [WorkerTime=3.759s], TShadowDepthPSPixelShadowDepth_OnePassPointLight [WorkerTime=2.983s], DepthPosOnlyNoPixelPipeline
+[2022.07.13-08.35.38:846][  0]LogShaderCompilers: Display: Worker (7/9) finished batch of 10 jobs in 230.431s, TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=66.914s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=50.884s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=39.638s], TBasePassVSTLightMapPolicyLQ [WorkerTime=16.888s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=11.786s], FVelocityPS [WorkerTime=11.544s], FHWRasterizeVS [WorkerTime=11.224s], FHWRasterizeVS [WorkerTime=8.366s], FHWRasterizeVS [WorkerTime=7.668s], TShadowDepthPSPixelShadowDepth_PerspectiveCorrect [WorkerTime=4.503s]
+[2022.07.13-08.35.38:846][  0]LogShaderCompilers: Display: Worker (9/9) finished batch of 10 jobs in 195.860s, TBasePassPSFNoLightMapPolicySkylight [WorkerTime=49.927s], TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=49.272s], TBasePassPSFNoLightMapPolicy [WorkerTime=44.856s], FHWRasterizeVS [WorkerTime=12.337s], FHWRasterizeVS [WorkerTime=9.117s], FHWRasterizeVS [WorkerTime=8.753s], TShadowDepthVSVertexShadowDepth_PerspectiveCorrect [WorkerTime=5.779s], FHWRasterizeVS [WorkerTime=5.278s], TLightMapDensityPSFNoLightMapPolicy [WorkerTime=3.996s], TShadowDepthPSPixelShadowDepth_OnePassPointLight [WorkerTime=3.729s]
+[2022.07.13-08.35.38:846][  0]LogShaderCompilers: Display: Worker (2/9) finished batch of 10 jobs in 129.614s, TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=46.967s], FDebugViewModePS [WorkerTime=12.671s], TBasePassVSFNoLightMapPolicy [WorkerTime=10.658s], TShadowDepthVSVertexShadowDepth_OnePassPointLight [WorkerTime=8.258s], FDebugViewModeVS [WorkerTime=6.891s], TLightMapDensityVSFNoLightMapPolicy [WorkerTime=6.333s], TLightMapDensityPSTLightMapPolicyLQ [WorkerTime=4.911s], TShadowDepthVSVertexShadowDepth_VirtualShadowMap [WorkerTime=4.362s], VelocityPipeline, DepthNoPixelPipeline
+[2022.07.13-08.35.38:846][  0]LogShaderCompilers: Display: Worker (6/9) finished batch of 10 jobs in 216.697s, TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=71.422s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=57.619s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=47.937s], TBasePassVSFNoLightMapPolicy [WorkerTime=8.302s], FHitProxyVS [WorkerTime=7.920s], TBasePassVSFCachedVolumeIndirectLightingPolicy [WorkerTime=4.820s], FHWRasterizeVS [WorkerTime=4.162s], TShadowDepthPSPixelShadowDepth_OnePassPointLight [WorkerTime=3.398s], TLightMapDensityPSFNoLightMapPolicy [WorkerTime=2.193s], DepthNoPixelPipeline
+[2022.07.13-08.35.38:846][  0]LogShaderCompilers: Display: Worker (4/9) finished batch of 10 jobs in 116.420s, TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=53.923s], TLightMapDensityPSFDummyLightMapPolicy [WorkerTime=11.272s], TBasePassVSTLightMapPolicyLQ [WorkerTime=9.661s], TLightMapDensityVSTLightMapPolicyLQ [WorkerTime=7.249s], TShadowDepthVSVertexShadowDepth_VirtualShadowMap [WorkerTime=5.444s], TShadowDepthPSPixelShadowDepth_VirtualShadowMap [WorkerTime=3.345s], FHitProxyPS [WorkerTime=1.619s], TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect [WorkerTime=1.056s], VelocityPipeline, VelocityPipeline
+[2022.07.13-08.35.38:846][  0]LogShaderCompilers: Display: Worker (1/9) finished batch of 10 jobs in 159.102s, TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=57.883s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=32.806s], FDebugViewModePS [WorkerTime=13.915s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=11.482s], FDebugViewModePS [WorkerTime=9.710s], FHWRasterizeVS [WorkerTime=9.526s], FHitProxyVS [WorkerTime=8.191s], FHitProxyVS [WorkerTime=6.783s], FHWRasterizeVS [WorkerTime=5.115s], TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect [WorkerTime=3.083s]
+[2022.07.13-08.35.38:846][  0]LogShaderCompilers: Display: Worker (3/9) finished batch of 10 jobs in 195.429s, TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight [WorkerTime=58.536s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight [WorkerTime=43.139s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=34.857s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=14.291s], FDebugViewModeVS [WorkerTime=11.233s], TShadowDepthVSVertexShadowDepth_VirtualShadowMap [WorkerTime=10.124s], TLightMapDensityVSFNoLightMapPolicy [WorkerTime=9.007s], FHWRasterizeVS [WorkerTime=6.336s], TShadowDepthVSVertexShadowDepth_OnePassPointLight [WorkerTime=4.887s], TShadowDepthPSPixelShadowDepth_VirtualShadowMap [WorkerTime=1.255s]
+[2022.07.13-08.35.38:846][  0]LogShaderCompilers: Display: Worker (5/9) finished batch of 10 jobs in 212.424s, TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=41.483s], TBasePassPSTLightMapPolicyHQSkylight [WorkerTime=39.616s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=28.077s], TShadowDepthVSVertexShadowDepth_VirtualShadowMapPositionOnly [WorkerTime=25.769s], FDebugViewModeVS [WorkerTime=19.064s], TBasePassVSTLightMapPolicyHQ [WorkerTime=9.933s], TBasePassVSFCachedVolumeIndirectLightingPolicy [WorkerTime=8.970s], FDebugViewModeVS [WorkerTime=6.855s], TShadowDepthVSVertexShadowDepth_VirtualShadowMap [WorkerTime=3.859s], DepthNoPixelPipeline
+[2022.07.13-08.35.38:846][  0]LogShaderCompilers: Error: ShaderCompileWorker terminated unexpectedly!  Falling back to directly compiling which will be very slow.  Thread 4.
+[2022.07.13-08.35.38:846][  0]LogShaderCompilers: Error: SCW 10 Queued Jobs, Unknown number of processed jobs!
+[2022.07.13-08.35.38:846][  0]LogShaderCompilers: Error: Job 0 [Single] WorldGridMaterial/TMultipleInfluenceClothVertexFactoryUnlimited/TShadowDepthVSVertexShadowDepth_OutputDepth/0:/Engine/Private/ShadowDepthVertexShader.usf VF 'TMultipleInfluenceClothVertexFactoryUnlimited' Type 'TShadowDepthVSVertexShadowDepth_OutputDepth' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+[2022.07.13-08.35.38:846][  0]LogShaderCompilers: Error: Job 1 [Single] WorldGridMaterial/TGPUSkinVertexFactoryUnlimited/TShadowDepthPSPixelShadowDepth_PerspectiveCorrect/0:/Engine/Private/ShadowDepthPixelShader.usf VF 'TGPUSkinVertexFactoryUnlimited' Type 'TShadowDepthPSPixelShadowDepth_PerspectiveCorrect' '/Engine/Private/ShadowDepthPixelShader.usf' Entry 'Main' Permutation 0 
+[2022.07.13-08.35.38:846][  0]LogShaderCompilers: Error: Job 2 [Single] WorldGridMaterial/FLocalVertexFactory/TBasePassPSTLightMapPolicyLQ/0:/Engine/Private/BasePassPixelShader.usf VF 'FLocalVertexFactory' Type 'TBasePassPSTLightMapPolicyLQ' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+[2022.07.13-08.35.38:847][  0]LogShaderCompilers: Error: Job 3 [Single] WorldGridMaterial/FNiagaraSpriteVertexFactory/TShadowDepthPSPixelShadowDepth_PerspectiveCorrect/0:/Engine/Private/ShadowDepthPixelShader.usf VF 'FNiagaraSpriteVertexFactory' Type 'TShadowDepthPSPixelShadowDepth_PerspectiveCorrect' '/Engine/Private/ShadowDepthPixelShader.usf' Entry 'Main' Permutation 0 
+[2022.07.13-08.35.38:847][  0]LogShaderCompilers: Error: Job 4 [Single] WorldGridMaterial/FNiagaraSpriteVertexFactory/TBasePassPSFCachedVolumeIndirectLightingPolicySkylight/0:/Engine/Private/BasePassPixelShader.usf VF 'FNiagaraSpriteVertexFactory' Type 'TBasePassPSFCachedVolumeIndirectLightingPolicySkylight' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+[2022.07.13-08.35.38:847][  0]LogShaderCompilers: Error: Job 5 [Single] WorldGridMaterial/FNiagaraSpriteVertexFactory/TLightMapDensityPSFNoLightMapPolicy/0:/Engine/Private/LightMapDensityShader.usf VF 'FNiagaraSpriteVertexFactory' Type 'TLightMapDensityPSFNoLightMapPolicy' '/Engine/Private/LightMapDensityShader.usf' Entry 'MainPixelShader' Permutation 0 
+[2022.07.13-08.35.38:848][  0]LogShaderCompilers: Error: Job 6 [Single] WorldGridMaterial/FNiagaraSpriteVertexFactory/TShadowDepthVSVertexShadowDepth_OnePassPointLight/0:/Engine/Private/ShadowDepthVertexShader.usf VF 'FNiagaraSpriteVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_OnePassPointLight' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+[2022.07.13-08.35.38:848][  0]LogShaderCompilers: Error: Job 7: Pipeline VelocityPipeline 
+[2022.07.13-08.35.38:848][  0]LogShaderCompilers: Error: PipelineJob 0 WorldGridMaterial/VelocityPipeline/FNiagaraSpriteVertexFactory/FVelocityPS/0:/Engine/Private/VelocityShader.usf VF 'FNiagaraSpriteVertexFactory' Type 'FVelocityPS' '/Engine/Private/VelocityShader.usf' Entry 'MainPixelShader' Permutation 0 
+[2022.07.13-08.35.38:848][  0]LogShaderCompilers: Error: PipelineJob 1 WorldGridMaterial/VelocityPipeline/FNiagaraSpriteVertexFactory/FVelocityVS/0:/Engine/Private/VelocityShader.usf VF 'FNiagaraSpriteVertexFactory' Type 'FVelocityVS' '/Engine/Private/VelocityShader.usf' Entry 'MainVertexShader' Permutation 0 
+[2022.07.13-08.35.38:848][  0]LogShaderCompilers: Error: Job 8 [Single] WorldGridMaterial/Nanite::FVertexFactory/TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect/0:/Engine/Private/ShadowDepthPixelShader.usf VF 'Nanite::FVertexFactory' Type 'TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect' '/Engine/Private/ShadowDepthPixelShader.usf' Entry 'Main' Permutation 0 
+[2022.07.13-08.35.38:848][  0]LogShaderCompilers: Error: Job 9 [Single] WorldGridMaterial/Nanite::FVertexFactory/TBasePassPSFNoLightMapPolicy/0:/Engine/Private/BasePassPixelShader.usf VF 'Nanite::FVertexFactory' Type 'TBasePassPSFNoLightMapPolicy' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
